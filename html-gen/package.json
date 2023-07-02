@@ -1,0 +1,9 @@
+{
+  "name": "html-gen",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
